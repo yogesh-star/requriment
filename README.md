@@ -1,11 +1,11 @@
 # Requriment
 Install-dependecies
-AWS CLI
-AZURE CLI
-Terraform
-Helm
-Kubectl
-Docker
+- AWS CLI
+- AZURE CLI
+- Terraform
+- Helm
+- Kubectl
+- Docker
 
 Run Command:
     
