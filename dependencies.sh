@@ -26,3 +26,4 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 apt-cache madison docker-ce
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
