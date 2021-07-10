@@ -1,5 +1,11 @@
 # Requriment
-Install-dependecies-for-EKS &amp; AKS
+Install-dependecies
+AWS CLI
+AZURE CLI
+Terraform
+Helm
+Kubectl
+Docker
 
 Run Command:
     
