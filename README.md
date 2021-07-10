@@ -1,7 +1,7 @@
 # requriment
 Install-dependecies-for-EKS &amp; AKS
 Run Command:
-
-    chmod +x dependencies.sh
     
-    ./dependencies.sh
+    git clone https://github.com/yogesh-star/requriment.git
+    sudo chmod +x dependencies.sh
+    sudo ./dependencies.sh
