@@ -1,4 +1,4 @@
-# requriment
+# Requriment
 Install-dependecies-for-EKS &amp; AKS
 Run Command:
     
