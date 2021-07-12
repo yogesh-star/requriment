@@ -1,12 +1,4 @@
 # Requriment
-Install-dependecies
-- AWS CLI
-- AZURE CLI
-- Terraform
-- Helm
-- Kubectl
-- Docker
-
 Run Command:
     
     sudo git clone https://github.com/yogesh-star/requriment.git
