@@ -5,4 +5,5 @@ Run Command:
     cd requriment
     sudo chmod +x dependencies.sh
     sudo ./dependencies.sh
+    cd ..
     sudo rm -rf requriment
